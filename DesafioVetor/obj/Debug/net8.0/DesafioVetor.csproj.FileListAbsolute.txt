@@ -1,0 +1,14 @@
+d:\FURB\TargetDesafio\DesafioVetor\bin\Debug\net8.0\DesafioVetor.exe
+d:\FURB\TargetDesafio\DesafioVetor\bin\Debug\net8.0\DesafioVetor.deps.json
+d:\FURB\TargetDesafio\DesafioVetor\bin\Debug\net8.0\DesafioVetor.runtimeconfig.json
+d:\FURB\TargetDesafio\DesafioVetor\bin\Debug\net8.0\DesafioVetor.dll
+d:\FURB\TargetDesafio\DesafioVetor\bin\Debug\net8.0\DesafioVetor.pdb
+d:\FURB\TargetDesafio\DesafioVetor\obj\Debug\net8.0\DesafioVetor.GeneratedMSBuildEditorConfig.editorconfig
+d:\FURB\TargetDesafio\DesafioVetor\obj\Debug\net8.0\DesafioVetor.AssemblyInfoInputs.cache
+d:\FURB\TargetDesafio\DesafioVetor\obj\Debug\net8.0\DesafioVetor.AssemblyInfo.cs
+d:\FURB\TargetDesafio\DesafioVetor\obj\Debug\net8.0\DesafioVetor.csproj.CoreCompileInputs.cache
+d:\FURB\TargetDesafio\DesafioVetor\obj\Debug\net8.0\DesafioVetor.dll
+d:\FURB\TargetDesafio\DesafioVetor\obj\Debug\net8.0\refint\DesafioVetor.dll
+d:\FURB\TargetDesafio\DesafioVetor\obj\Debug\net8.0\DesafioVetor.pdb
+d:\FURB\TargetDesafio\DesafioVetor\obj\Debug\net8.0\DesafioVetor.genruntimeconfig.cache
+d:\FURB\TargetDesafio\DesafioVetor\obj\Debug\net8.0\ref\DesafioVetor.dll
